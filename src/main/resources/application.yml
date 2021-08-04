@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: qywx
+
+server:
+  port: 80
+
+wx:
+  saas:
+    apihost: https://qyapi.weixin.qq.com
+    corpid: wx6421f6c5d70a427d
+    corpsecret: jgxMZlsj3-0m2Xx8z0of1NLWrLVMSDGy4yGgTIr4F6k
+  local:
+    apihost: https://qywx.ctg.com.cn:50443
+    corpid: wwad5cc94f74d696f2
+    corpsecret: bYwaS1rNZ_pDr2IGtVAKDtzURNIovQq9WjzNaD2kyNU
